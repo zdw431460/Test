@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+android:oneshot="true"
+    >
+<item
+    android:drawable="@mipmap/pull_26"
+    android:duration="2000"
+    ></item>
+    <item
+        android:drawable="@mipmap/pull_25"
+        android:duration="100"
+        ></item>
+
+    <item
+        android:drawable="@mipmap/back_20"
+        android:duration="1000"
+        ></item>
+</animation-list>
